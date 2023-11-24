@@ -10,3 +10,5 @@ Caso sua função receba o inteiro 11, ela deve retornar 33, resultante do somat
 
 baixe uma extensão no vs code chamado ```Live Server```<br>
 vá até o arquivo index.html e com botão direito do mouse você vai clicar em ```Open with Live Server``` e irá abrir uma pagina html, na pagina com o botão direito do mouse você clica em inspecionar para abrir o devTools do google e depois é só navegar até console e lá estara o resultado do codigo.
+
+ou se você estiver com o node instalado é só abri o terminal com ```ctrl + j``` e escrever o comando ```node script.js```
